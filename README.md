@@ -1,6 +1,6 @@
 // fasttrack
 
-
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=le_pack&theme=dark)]
 <details>
   <summary>Video Games</summary>
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=le_pack&theme=dark)](https://github.com/HiAbdounour/le_pack)
