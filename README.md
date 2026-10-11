@@ -2,19 +2,22 @@
 
 <details>
   <summary>Video Games</summary>
-  ![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=le_pack&theme=dark)(https://github.com/HiAbdounour/le_pack)
+  
+  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=le_pack&theme=dark)](https://github.com/HiAbdounour/le_pack)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=Pickgamon&theme=dark)](https://github.com/HiAbdounour/Pickgamon)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=proj_mbed_batnav&theme=dark)](https://github.com/HiAbdounour/proj_mbed_batnav)
 </details>
 
 <details>
   <summary>Related to IDFMwiki</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=SoftVertexGenerator&theme=dark)](https://github.com/HiAbdounour/SoftVertexGenerator)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=SoftVertexGenerator_IDFM&theme=dark)](https://github.com/HiAbdounour/SoftVertexGenerator_IDFM)
 </details>
 
 <details>
   <summary>Other transit systems projects</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MonPetitTrafic&repo=MonPetitTrafic&theme=dark)](https://github.com/MonPetitTrafic/MonPetitTrafic)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MonPetitTrafic&repo=api&theme=dark)](https://github.com/MonPetitTrafic/api)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Leon-ED&repo=lumiplan-ratp&theme=dark)](https://github.com/Leon-ED/lumiplan-ratp)
@@ -22,6 +25,7 @@
 
 <details>
   <summary>Dev Tools</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=LABELS&theme=dark)](https://github.com/HiAbdounour/LABELS)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=all-contributors&repo=allcontributors.org&theme=dark)](https://github.com/all-contributors/allcontributors.org)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=DavidWells&repo=netlify-functions-workshop&theme=dark)](https://github.com/DavidWells/netlify-functions-workshop)
@@ -30,18 +34,21 @@
 
 <details>
   <summary>Learning through projects</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=LaRouteDuCPP&theme=dark)](https://github.com/HiAbdounour/LaRouteDuCPP)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=react-native-demo-app&theme=dark)](https://github.com/HiAbdounour/react-native-demo-app)
 </details>
 
 <details>
   <summary>Mathematics</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MathsDeTopsxi&theme=dark)](https://github.com/MathsDeTopsxi)
     [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=convertisseur_megamax&theme=dark)](https://github.com/HiAbdounour/convertisseur_megamax)
 </details>
 
 <details>
   <summary>Forks</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=FORK__MonPetitTrafic&theme=dark)](https://github.com/HiAbdounour/FORK__MonPetitTrafic)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=FORK__api_MonPetitTrafic&theme=dark)](https://github.com/HiAbdounour/FOORK_api_MonPetitTrafic)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=cours-polytech-peip2-algo&theme=dark)](https://github.com/HiAbdounour/cours-polytech-peip2-algo)
@@ -49,27 +56,32 @@
 
 <details>
   <summary>Openzone</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=Skillies&theme=dark)](https://github.com/HiAbdounour/Skillies)
 </details>
 
 <details>
   <summary>What is this shit actually ?</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=pwony&theme=dark)](https://github.com/HiAbdounour/pwony)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=Markov-Pixel-Art&theme=dark)](https://github.com/HiAbdounour/Markov-Pixel-Art)
 </details>
 
 <details>
   <summary>Classes</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=jjfPCSI1&repo=CPGE-Kleber&theme=dark)](https://github.com/jjfPCSI1/CPGE-Kleber)
 </details>
 
 <details>
   <summary>Test Zone</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=banana-soup-and-chips&theme=dark)](https://github.com/HiAbdounour/banana-soup-and-chips)
 </details>
 
 <details>
   <summary>Archives</summary>
+  
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=le_mot_le_pack&theme=dark)](https://github.com/HiAbdounour/le_mot_le_pack)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=le_nombre_le_pack&theme=dark)](https://github.com/HiAbdounour/le_nombre_le_pack)
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=webmaster-idfm-2026&theme=dark)](https://github.com/HiAbdounour/webmaster-idfm-2026)
