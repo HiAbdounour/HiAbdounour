@@ -3,9 +3,9 @@
 <details>
   <summary>Video Games</summary>
 
-  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/14d30d41-c881-4453-8e02-773779869fd3" />](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=le_pack&theme=dark)](https://github.com/HiAbdounour/le_pack)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=Pickgamon&theme=dark)](https://github.com/HiAbdounour/Pickgamon)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=proj_mbed_batnav&theme=dark)](https://github.com/HiAbdounour/proj_mbed_batnav)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/14d30d41-c881-4453-8e02-773779869fd3" />](https://github.com/HiAbdounour/le_pack)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/b8e4f5d0-34f1-4058-a792-417424b7c145" />](https://github.com/HiAbdounour/Pickgamon)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/ff725170-fcd0-4426-9db2-84144c06d8da" />](https://github.com/HiAbdounour/proj_mbed_batnav)
 </details>
 
 <details>
