@@ -11,8 +11,8 @@
 <details>
   <summary>Related to IDFMwiki</summary>
   
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=SoftVertexGenerator&theme=dark)](https://github.com/HiAbdounour/SoftVertexGenerator)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=SoftVertexGenerator_IDFM&theme=dark)](https://github.com/HiAbdounour/SoftVertexGenerator_IDFM)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/e7871476-5c91-4499-aead-c51282565110" />](https://github.com/HiAbdounour/SoftVertexGenerator)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/21b22dda-df1b-4149-97e9-cbe2a8d31681" />](https://github.com/HiAbdounour/SoftVertexGenerator_IDFM)
 </details>
 
 <details>
