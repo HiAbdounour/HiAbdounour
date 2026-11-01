@@ -74,9 +74,9 @@
 </details>
 
 <details>
-  <summary>Test Zone</summary>
+  <summary>Sandbox</summary>
   
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=banana-soup-and-chips&theme=dark)](https://github.com/HiAbdounour/banana-soup-and-chips)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/3fc0d2cb-3978-4e8e-adaa-ea68d38e90e6" />](https://github.com/HiAbdounour/banana-soup-and-chips)
 </details>
 
 <details>
