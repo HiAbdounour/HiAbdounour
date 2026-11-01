@@ -68,9 +68,9 @@
 </details>
 
 <details>
-  <summary>Classes</summary>
+  <summary>Courses</summary>
   
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=jjfPCSI1&repo=CPGE-Kleber&theme=dark)](https://github.com/jjfPCSI1/CPGE-Kleber)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/d967a754-642e-4d68-9002-85d7b43dc568" />](https://github.com/jjfPCSI1/CPGE-Kleber)
 </details>
 
 <details>
