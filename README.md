@@ -1,4 +1,4 @@
-<img width="400" height="160" alt="shit" src="https://github.com/user-attachments/assets/f0f37614-0166-4f70-9c25-83d4c8a2e76f" /><img width="580" height="191" alt="Gemini_Generated_Image_wq9z9rwq9z9rwq9z-removebg-preview (1)" src="https://github.com/user-attachments/assets/b4be4fc9-c07c-47f9-92ec-702190e14551" />
+<img width="580" height="191" alt="Gemini_Generated_Image_wq9z9rwq9z9rwq9z-removebg-preview (1)" src="https://github.com/user-attachments/assets/b4be4fc9-c07c-47f9-92ec-702190e14551" />
 
 <details>
   <summary>Video Games</summary>
@@ -30,7 +30,8 @@
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/e7f91466-f29a-432a-8f6c-8d87c2eb261c" />](https://github.com/HiAbdounour/Nodataka)
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/cc4bdf2d-e33e-4440-8a5e-0646644c8654" />](https://github.com/all-contributors/allcontributors.org)
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/5a7ed73d-7800-4456-a84a-b7232c3ba3c8" />](https://github.com/DavidWells/netlify-functions-workshop)
-    [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/e3d18e2e-2297-4fd5-8d90-02277ac68f45" />](https://github.com/joelparkerhenderson/github-special-files-and-paths)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/e3d18e2e-2297-4fd5-8d90-02277ac68f45" />](https://github.com/HiAbdounour/SVGBundling)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/977bc644-7a69-4c83-890c-31935607c1e4" />](https://github.com/joelparkerhenderson/github-special-files-and-paths)
 </details>
 
 <details>
