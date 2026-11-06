@@ -18,9 +18,9 @@
 <details>
   <summary>Other transit systems projects</summary>
   
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MonPetitTrafic&repo=MonPetitTrafic&theme=dark)](https://github.com/MonPetitTrafic/MonPetitTrafic)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MonPetitTrafic&repo=api&theme=dark)](https://github.com/MonPetitTrafic/api)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Leon-ED&repo=lumiplan-ratp&theme=dark)](https://github.com/Leon-ED/lumiplan-ratp)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/6b41a1f3-c887-4fc6-92cb-cf35e03cdc06" />](https://github.com/MonPetitTrafic/MonPetitTrafic)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/ac8898bd-c989-499d-9bcd-461f9e979968" />](https://github.com/MonPetitTrafic/api)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/6c61b95d-069f-408a-a4f1-50f0bb317d20" />](https://github.com/Leon-ED/lumiplan-ratp)
 </details>
 
 <details>
@@ -48,15 +48,15 @@
 <details>
   <summary>Learning through projects</summary>
   
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=LaRouteDuCPP&theme=dark)](https://github.com/HiAbdounour/LaRouteDuCPP)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=react-native-demo-app&theme=dark)](https://github.com/HiAbdounour/react-native-demo-app)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/509388e2-02e1-49e3-81a6-9e3144000fe4" />](https://github.com/HiAbdounour/LaRouteDuCPP)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/9dd578c8-e0b5-4517-9a7a-f71a4a3f7c79" />](https://github.com/HiAbdounour/react-native-demo-app)
 </details>
 
 <details>
   <summary>Mathematics</summary>
   
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MathsDeTopsxi&theme=dark)](https://github.com/MathsDeTopsxi)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=convertisseur_megamax&theme=dark)](https://github.com/HiAbdounour/convertisseur_megamax)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/2a792d06-befa-4a60-849b-97fd58045e0b" />](https://github.com/MathsDeTopsxi)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/5bf3f025-cf05-4e32-a576-e4260a217576" />](https://github.com/HiAbdounour/convertisseur_megamax)
 </details>
 
 <details>
