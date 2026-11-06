@@ -24,10 +24,21 @@
 </details>
 
 <details>
+  <summary>Cybersecurity and privacy tools</summary>
+
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/e7f91466-f29a-432a-8f6c-8d87c2eb261c" />](https://github.com/HiAbdounour/Nodataka)
+</details>
+
+<details>
+  <summary>Electronics-related</summary>
+
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/7d02d0e7-2a78-4590-b74a-54b41997c705" />](https://github.com/HiAbdounour/MyBreadboard)
+</details>
+
+<details>
   <summary>Dev Tools</summary>
   
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/1a08ebe7-7f2e-45a7-b891-6527e7f25d02" />](https://github.com/HiAbdounour/LABELS)
-  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/e7f91466-f29a-432a-8f6c-8d87c2eb261c" />](https://github.com/HiAbdounour/Nodataka)
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/cc4bdf2d-e33e-4440-8a5e-0646644c8654" />](https://github.com/all-contributors/allcontributors.org)
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/5a7ed73d-7800-4456-a84a-b7232c3ba3c8" />](https://github.com/DavidWells/netlify-functions-workshop)
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/e3d18e2e-2297-4fd5-8d90-02277ac68f45" />](https://github.com/HiAbdounour/SVGBundling)
@@ -45,7 +56,7 @@
   <summary>Mathematics</summary>
   
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MathsDeTopsxi&theme=dark)](https://github.com/MathsDeTopsxi)
-    [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=convertisseur_megamax&theme=dark)](https://github.com/HiAbdounour/convertisseur_megamax)
+  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=convertisseur_megamax&theme=dark)](https://github.com/HiAbdounour/convertisseur_megamax)
 </details>
 
 <details>
