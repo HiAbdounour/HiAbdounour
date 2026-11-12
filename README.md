@@ -62,9 +62,9 @@
 <details>
   <summary>Forks</summary>
   
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=FORK__MonPetitTrafic&theme=dark)](https://github.com/HiAbdounour/FORK__MonPetitTrafic)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=FORK__api_MonPetitTrafic&theme=dark)](https://github.com/HiAbdounour/FOORK_api_MonPetitTrafic)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=cours-polytech-peip2-algo&theme=dark)](https://github.com/HiAbdounour/cours-polytech-peip2-algo)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/e4dc4c5b-550b-48a3-8ac3-f4ae54afc38a" />](https://github.com/HiAbdounour/FORK__MonPetitTrafic)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/e3a29e4d-1137-41df-83ec-090cdce25044" />](https://github.com/HiAbdounour/FOORK_api_MonPetitTrafic)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/457367a5-7b7f-416f-a6f5-fb2d33dd2653" />](https://github.com/HiAbdounour/cours-polytech-peip2-algo)
 </details>
 
 <details>
@@ -101,4 +101,4 @@
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=minka&theme=dark)](https://github.com/HiAbdounour/minka)
 </details>
 
-En attente : [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=BULB&theme=dark)](https://github.com/HiAbdounour/BULB)
+En attente : [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/c6c790a3-16f6-4689-8ceb-16dce2bef7a3" />](https://github.com/HiAbdounour/BULB)
