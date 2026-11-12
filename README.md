@@ -101,4 +101,5 @@
   [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=minka&theme=dark)](https://github.com/HiAbdounour/minka)
 </details>
 
-En attente : [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/c6c790a3-16f6-4689-8ceb-16dce2bef7a3" />](https://github.com/HiAbdounour/BULB)
+En attente :\
+[<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/c6c790a3-16f6-4689-8ceb-16dce2bef7a3" />](https://github.com/HiAbdounour/BULB)
