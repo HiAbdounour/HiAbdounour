@@ -6,6 +6,7 @@
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/14d30d41-c881-4453-8e02-773779869fd3" />](https://github.com/HiAbdounour/le_pack)
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/b8e4f5d0-34f1-4058-a792-417424b7c145" />](https://github.com/HiAbdounour/Pickgamon)
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/ff725170-fcd0-4426-9db2-84144c06d8da" />](https://github.com/HiAbdounour/proj_mbed_batnav)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/5f6065fc-4b8b-408f-b202-d4f816cd572e" />](https://github.com/HiAbdounour/Markov-Pixel-Art)
 </details>
 
 <details>
@@ -50,6 +51,7 @@
   
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/509388e2-02e1-49e3-81a6-9e3144000fe4" />](https://github.com/HiAbdounour/LaRouteDuCPP)
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/9dd578c8-e0b5-4517-9a7a-f71a4a3f7c79" />](https://github.com/HiAbdounour/react-native-demo-app)
+  [<img width="400" height="160" alt="no" src="https://github.com/user-attachments/assets/d4419e61-c7ac-4677-9ef9-d6409805d8fe" />](https://github.com/HiAbdounour/react-native-demo-app)
 </details>
 
 <details>
@@ -74,10 +76,10 @@
 </details>
 
 <details>
-  <summary>What is this shit actually ?</summary>
+  <summary>Make things easy</summary>
   
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=pwony&theme=dark)](https://github.com/HiAbdounour/pwony)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=Markov-Pixel-Art&theme=dark)](https://github.com/HiAbdounour/Markov-Pixel-Art)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/6dc19530-e050-46ab-8233-d2239511b1bc" />](https://github.com/HiAbdounour/pwony)
+  
 </details>
 
 <details>
@@ -95,10 +97,10 @@
 <details>
   <summary>Archives</summary>
   
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=le_mot_le_pack&theme=dark)](https://github.com/HiAbdounour/le_mot_le_pack)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=le_nombre_le_pack&theme=dark)](https://github.com/HiAbdounour/le_nombre_le_pack)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=webmaster-idfm-2026&theme=dark)](https://github.com/HiAbdounour/webmaster-idfm-2026)
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=HiAbdounour&repo=minka&theme=dark)](https://github.com/HiAbdounour/minka)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/13a08203-e79c-4114-abff-670793f7c383" />](https://github.com/HiAbdounour/le_mot_le_pack)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/5bcac132-e64a-4e0f-89d6-7417bcdf68b4" />](https://github.com/HiAbdounour/le_nombre_le_pack)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/d7c5f14a-ea92-4143-b13d-8c687ce3e75a" />](https://github.com/HiAbdounour/webmaster-idfm-2026)
+  [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/d20435b7-4146-4e22-8fdb-60e1e751f7dc" />](https://github.com/HiAbdounour/minka)
 </details>
 
 En attente :\
