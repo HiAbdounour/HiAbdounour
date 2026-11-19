@@ -33,6 +33,7 @@
 <details>
   <summary>Electronics-related</summary>
 
+  [<img width="400" height="160" alt="do" src="https://github.com/user-attachments/assets/5d65beae-c70a-4eaa-9785-816ab2b445ab" />](https://github.com/HiAbdounour/ArduinoLab)
   [<img width="400" height="160" alt="Image" src="https://github.com/user-attachments/assets/7d02d0e7-2a78-4590-b74a-54b41997c705" />](https://github.com/HiAbdounour/MyBreadboard)
 </details>
 
